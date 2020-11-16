@@ -1,6 +1,6 @@
 # Workout Tracker
 
-Foobar is a Python library for dealing with word pluralization.
+A browser application that allows users to save statistics about workouts and review past workouts.
 
 ## Installation
 
