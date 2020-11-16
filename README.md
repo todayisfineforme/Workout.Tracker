@@ -6,11 +6,11 @@ utilizes express and mongoose.
 
 ## Installation
 
-Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
-
+clone the repo and then run 
 ```bash
-npm install foobar
+npm install
 ```
+to install dependencies 
 
 ## Usage
 
