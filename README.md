@@ -2,6 +2,8 @@
 
 A browser application that allows users to save statistics about workouts and review past workouts.
 
+utilizes express and mongoose.
+
 ## Installation
 
 Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
